@@ -11,4 +11,6 @@ package testgithub;
  */
 public class NewClass {
     String sedek; //ayklam
+    private int ID;
+
 }
