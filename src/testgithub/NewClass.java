@@ -10,7 +10,8 @@ package testgithub;
  * @author Ahmed
  */
 public class NewClass {
+    private String name;
     String sedek; //ayklam
     private int ID;
-
+    String Email;
 }
