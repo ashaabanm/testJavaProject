@@ -10,5 +10,5 @@ package testgithub;
  * @author Ahmed
  */
 public class NewClass {
-    
+    String sedek;
 }
