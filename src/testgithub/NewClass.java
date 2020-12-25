@@ -11,4 +11,5 @@ package testgithub;
  */
 public class NewClass {
     private String name;
+    private int ID;
 }
